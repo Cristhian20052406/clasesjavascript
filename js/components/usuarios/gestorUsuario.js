@@ -62,7 +62,7 @@ class GestorUsuarios {
             <p style="color: ${color};">Edad: ${usuario.age}</p>
             <p>DNI: ${usuario.dni}</p>
             <p>Estado: ${usuario.estado}</p>
-            <p>Estado: ${usuario.foto}</p>
+            <img src="${usuario.foto}" style="max-width: 100px; height: auto;">
             </div>`);
         });
     }
