@@ -1,0 +1,10 @@
+[
+
+        {"id": 1, "name": "Frank", "dni": "123456789", "age": 20, "estado": "Soltero", "foto": "img/persona1.jpg"},
+        {"id": 2, "name": "Rogger", "dni": "234567890", "age": 17, "estado": "Soltero", "foto": "img/persona2.jpg"},
+        {"id": 3, "name": "Luis", "dni": "345678901", "age": 17, "estado": "Soltero", "foto": "img/persona3.jpg"},
+        {"id": 4, "name": "Felipe", "dni": "456789012", "age": 24, "estado": "Casado", "foto": "img/persona4.jpg"},
+        {"id": 5, "name": "Rosa", "dni": "567890123", "age": 16, "estado": "Soltero", "foto": "img/persona5.jpg"},
+        {"id": 6, "name": "Miguel", "dni": "678901234", "age": 14, "estado": "Soltero", "foto": "img/persona6.jpg"}
+
+]
